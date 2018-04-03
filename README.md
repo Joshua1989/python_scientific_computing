@@ -8,3 +8,8 @@ The tutorial will be held once per week on TBD day at lunch time at Duke Univers
 2. Quick tutorial for basic Python3 programming.
 3. Introduce `numpy`, `scipy`, `matplotlib`, `pandas` for scientific computation, data visualization, and dataframe manipulation.
 4. Try to build learning models with TensorFlow and try out the example code.
+
+# References and Resources
+https://github.com/cliburn/sta-663-2017
+https://github.com/aymericdamien/TensorFlow-Examples
+https://lvdmaaten.github.io/tsne/
